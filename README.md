@@ -1,4 +1,4 @@
-<h1 align="center">Ignite - Trilha ReactJS - Módulo 4 - Typescript</h1>
+<h1 align="center">Ignite - Trilha ReactJS - Chapter I</h1>
 
 #Índice
 - [🛠 Sobre o projeto](#-sobre-o-projeto)
